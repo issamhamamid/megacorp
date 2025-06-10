@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0312ac5-1ee5-4364-a205-e0c8ba89c6af" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customers/all.csv" beforeDir="false" afterPath="$PROJECT_DIR$/customers/all.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orgs/partners.txt" beforeDir="false" afterPath="$PROJECT_DIR$/orgs/partners.txt" afterDir="false" />
-    </list>
+    <list default="true" id="d0312ac5-1ee5-4364-a205-e0c8ba89c6af" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +37,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "scanner",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,10 +64,27 @@
       <updated>1749322757271</updated>
       <workItem from="1749322758387" duration="4287000" />
       <workItem from="1749384674995" duration="468000" />
+      <workItem from="1749556555180" duration="760000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="f26a7091-5de1-491c-9521-2191697a1b65" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="f26a7091-5de1-491c-9521-2191697a1b65">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
